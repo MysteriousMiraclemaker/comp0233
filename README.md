@@ -1,9 +1,9 @@
 <<<<<<< HEAD
 # Perez's Family secret recipes
 Set of recipes are givenn by my grandma
-- ppizas (TODO)
+- pizas (TODO)
 - sauses (TODO)
-- reads (TODO)
+- sreads (TODO)
 =======
 # family secert recipe
 Set of recipes are givenn by my grandma
